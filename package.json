@@ -41,7 +41,7 @@
     "fast-xml-parser": "^3.17.5",
     "ipaddr.js": "^2.0.1",
     "json-stream": "^1.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mime-types": "^2.1.14",
     "mkdirp": "^0.5.1",
     "query-string": "^7.1.1",
